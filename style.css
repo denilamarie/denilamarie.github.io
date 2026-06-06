@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f6f9;
+    text-align: center;
+}
+
+.hero {
+    background: #2c3e50;
+    color: white;
+    padding: 40px;
+}
+
+.hero img {
+    border-radius: 50%;
+}
+
+.card {
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
